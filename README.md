@@ -1,2 +1,2 @@
 # scripts
-Utility scripts for different tasks I've run into. 
+Utility scripts for different annoying tasks I run into. 
