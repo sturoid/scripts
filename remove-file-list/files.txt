@@ -1,0 +1,15 @@
+  /usr/local/include/mach/mach.h
+  /usr/local/include/mach/mach_error.h
+  /usr/local/include/mach/mach_host.h
+  /usr/local/include/mach/mach_init.h
+  /usr/local/include/mach/mach_interface.h
+  /usr/local/include/mach/mach_param.h
+  /usr/local/include/mach/mach_port.h
+  /usr/local/include/mach/mach_syscalls.h
+  /usr/local/include/mach/mach_time.h
+  /usr/local/include/mach/mach_traps.h
+  /usr/local/include/mach/mach_types.h
+  /usr/local/include/mach/mach_vm.h
+  /usr/local/include/mach/mach_voucher.h
+  /usr/local/include/mach/mach_voucher_types.h
+  /usr/local/include/mach/machine.h
